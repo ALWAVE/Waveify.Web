@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3504F3E-FAEA-4274-AD5B-00974DE201E4}|Waveify.Application\\Waveify.Application.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.application\\waveify.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3504F3E-FAEA-4274-AD5B-00974DE201E4}|Waveify.Application\\Waveify.Application.csproj|solutionrelative:waveify.application\\waveify.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\controllers\\drumkitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\controllers\\drumkitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\contracts\\drumkitresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\contracts\\drumkitresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\contracts\\drumkitrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\contracts\\drumkitrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3504F3E-FAEA-4274-AD5B-00974DE201E4}|Waveify.Application\\Waveify.Application.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.application\\services\\drumkitservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3504F3E-FAEA-4274-AD5B-00974DE201E4}|Waveify.Application\\Waveify.Application.csproj|solutionrelative:waveify.application\\services\\drumkitservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|solutionrelative:waveify.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.persistence\\waveifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|solutionrelative:waveify.persistence\\waveifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.persistence\\configurations\\drumkitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|solutionrelative:waveify.persistence\\configurations\\drumkitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.persistence\\repositories\\drumkitrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|solutionrelative:waveify.persistence\\repositories\\drumkitrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3504F3E-FAEA-4274-AD5B-00974DE201E4}|Waveify.Application\\Waveify.Application.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.application\\interfaces\\repositiories\\idrumkitrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3504F3E-FAEA-4274-AD5B-00974DE201E4}|Waveify.Application\\Waveify.Application.csproj|solutionrelative:waveify.application\\interfaces\\repositiories\\idrumkitrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.persistence\\entities\\drumkitentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|solutionrelative:waveify.persistence\\entities\\drumkitentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC579815-A273-4206-8A90-4D2363A5FD48}|Waveify.Core\\Waveify.Core.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.core\\models\\drumkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC579815-A273-4206-8A90-4D2363A5FD48}|Waveify.Core\\Waveify.Core.csproj|solutionrelative:waveify.core\\models\\drumkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC579815-A273-4206-8A90-4D2363A5FD48}|Waveify.Core\\Waveify.Core.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.core\\models\\beat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC579815-A273-4206-8A90-4D2363A5FD48}|Waveify.Core\\Waveify.Core.csproj|solutionrelative:waveify.core\\models\\beat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.persistence\\databasemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|solutionrelative:waveify.persistence\\databasemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3504F3E-FAEA-4274-AD5B-00974DE201E4}|Waveify.Application\\Waveify.Application.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.application\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3504F3E-FAEA-4274-AD5B-00974DE201E4}|Waveify.Application\\Waveify.Application.csproj|solutionrelative:waveify.application\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|solutionrelative:waveify.persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.persistence\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|solutionrelative:waveify.persistence\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC579815-A273-4206-8A90-4D2363A5FD48}|Waveify.Core\\Waveify.Core.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC579815-A273-4206-8A90-4D2363A5FD48}|Waveify.Core\\Waveify.Core.csproj|solutionrelative:waveify.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3504F3E-FAEA-4274-AD5B-00974DE201E4}|Waveify.Application\\Waveify.Application.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.application\\interfaces\\repositiories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3504F3E-FAEA-4274-AD5B-00974DE201E4}|Waveify.Application\\Waveify.Application.csproj|solutionrelative:waveify.application\\interfaces\\repositiories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.persistence\\waveify.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8D4C3F8-8E10-4738-8063-B81B5895C406}|Waveify.Persistence\\Waveify.Persistence.csproj|solutionrelative:waveify.persistence\\waveify.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B152FF-FCFC-4FF7-9A58-0DBA74901ADE}|Waveify.Infrastructure\\Waveify.Infrastructure.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.infrastructure\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B152FF-FCFC-4FF7-9A58-0DBA74901ADE}|Waveify.Infrastructure\\Waveify.Infrastructure.csproj|solutionrelative:waveify.infrastructure\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\waveify.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\waveify.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B152FF-FCFC-4FF7-9A58-0DBA74901ADE}|Waveify.Infrastructure\\Waveify.Infrastructure.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B152FF-FCFC-4FF7-9A58-0DBA74901ADE}|Waveify.Infrastructure\\Waveify.Infrastructure.csproj|solutionrelative:waveify.infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B152FF-FCFC-4FF7-9A58-0DBA74901ADE}|Waveify.Infrastructure\\Waveify.Infrastructure.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.infrastructure\\waveify.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0B152FF-FCFC-4FF7-9A58-0DBA74901ADE}|Waveify.Infrastructure\\Waveify.Infrastructure.csproj|solutionrelative:waveify.infrastructure\\waveify.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3504F3E-FAEA-4274-AD5B-00974DE201E4}|Waveify.Application\\Waveify.Application.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.application\\interfaces\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3504F3E-FAEA-4274-AD5B-00974DE201E4}|Waveify.Application\\Waveify.Application.csproj|solutionrelative:waveify.application\\interfaces\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B152FF-FCFC-4FF7-9A58-0DBA74901ADE}|Waveify.Infrastructure\\Waveify.Infrastructure.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.infrastructure\\passwordhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B152FF-FCFC-4FF7-9A58-0DBA74901ADE}|Waveify.Infrastructure\\Waveify.Infrastructure.csproj|solutionrelative:waveify.infrastructure\\passwordhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3504F3E-FAEA-4274-AD5B-00974DE201E4}|Waveify.Application\\Waveify.Application.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.application\\interfaces\\auth\\ipasswordhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3504F3E-FAEA-4274-AD5B-00974DE201E4}|Waveify.Application\\Waveify.Application.csproj|solutionrelative:waveify.application\\interfaces\\auth\\ipasswordhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\contracts\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\contracts\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\contracts\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\contracts\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveifyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDCB1DA-155C-45BC-857A-62AB4356BB5E}|WaveifyWeb\\Waveify.API.csproj|solutionrelative:waveifyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC579815-A273-4206-8A90-4D2363A5FD48}|Waveify.Core\\Waveify.Core.csproj|d:\\projectvs\\waveifywebapplication\\backend\\waveifyweb\\waveify.core\\waveify.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CC579815-A273-4206-8A90-4D2363A5FD48}|Waveify.Core\\Waveify.Core.csproj|solutionrelative:waveify.core\\waveify.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DrumKitRequest.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Contracts\\DrumKitRequest.cs",
+              "RelativeDocumentMoniker": "WaveifyWeb\\Contracts\\DrumKitRequest.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Contracts\\DrumKitRequest.cs",
+              "RelativeToolTip": "WaveifyWeb\\Contracts\\DrumKitRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T21:27:16.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrumKitResponse.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Contracts\\DrumKitResponse.cs",
+              "RelativeDocumentMoniker": "WaveifyWeb\\Contracts\\DrumKitResponse.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Contracts\\DrumKitResponse.cs",
+              "RelativeToolTip": "WaveifyWeb\\Contracts\\DrumKitResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:17:01.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DrumKitServices.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Application\\Services\\DrumKitServices.cs",
+              "RelativeDocumentMoniker": "Waveify.Application\\Services\\DrumKitServices.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Application\\Services\\DrumKitServices.cs",
+              "RelativeToolTip": "Waveify.Application\\Services\\DrumKitServices.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA4wCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:58:13.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\docker-compose.yml",
+              "RelativeDocumentMoniker": "WaveifyWeb\\docker-compose.yml",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\docker-compose.yml",
+              "RelativeToolTip": "WaveifyWeb\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-22T14:10:11.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Program.cs",
+              "RelativeDocumentMoniker": "WaveifyWeb\\Program.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Program.cs",
+              "RelativeToolTip": "WaveifyWeb\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwCgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:14:47.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Waveify.Application.csproj",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Application\\Waveify.Application.csproj",
+              "RelativeDocumentMoniker": "Waveify.Application\\Waveify.Application.csproj",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Application\\Waveify.Application.csproj",
+              "RelativeToolTip": "Waveify.Application\\Waveify.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T10:32:55.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WaveifyWeb\\appsettings.Development.json",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\appsettings.Development.json",
+              "RelativeToolTip": "WaveifyWeb\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T13:19:30.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrumKitController.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Controllers\\DrumKitController.cs",
+              "RelativeDocumentMoniker": "WaveifyWeb\\Controllers\\DrumKitController.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Controllers\\DrumKitController.cs",
+              "RelativeToolTip": "WaveifyWeb\\Controllers\\DrumKitController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:12:53.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Waveify.Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Waveify.Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:53:35.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WaveifyDbContext.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\WaveifyDbContext.cs",
+              "RelativeDocumentMoniker": "Waveify.Persistence\\WaveifyDbContext.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\WaveifyDbContext.cs",
+              "RelativeToolTip": "Waveify.Persistence\\WaveifyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:31:44.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "WaveifyWeb\\appsettings.json",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\appsettings.json",
+              "RelativeToolTip": "WaveifyWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T13:26:31.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DrumKitRepositories.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\Repositories\\DrumKitRepositories.cs",
+              "RelativeDocumentMoniker": "Waveify.Persistence\\Repositories\\DrumKitRepositories.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\Repositories\\DrumKitRepositories.cs",
+              "RelativeToolTip": "Waveify.Persistence\\Repositories\\DrumKitRepositories.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAUwD4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:40:59.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DrumKitConfiguration.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\Configurations\\DrumKitConfiguration.cs",
+              "RelativeDocumentMoniker": "Waveify.Persistence\\Configurations\\DrumKitConfiguration.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\Configurations\\DrumKitConfiguration.cs",
+              "RelativeToolTip": "Waveify.Persistence\\Configurations\\DrumKitConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:36:09.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDrumKitRepositories.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Application\\Interfaces\\Repositiories\\IDrumKitRepositories.cs",
+              "RelativeDocumentMoniker": "Waveify.Application\\Interfaces\\Repositiories\\IDrumKitRepositories.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Application\\Interfaces\\Repositiories\\IDrumKitRepositories.cs",
+              "RelativeToolTip": "Waveify.Application\\Interfaces\\Repositiories\\IDrumKitRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:11:50.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DrumKitEntity.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\Entities\\DrumKitEntity.cs",
+              "RelativeDocumentMoniker": "Waveify.Persistence\\Entities\\DrumKitEntity.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\Entities\\DrumKitEntity.cs",
+              "RelativeToolTip": "Waveify.Persistence\\Entities\\DrumKitEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:33:21.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Beat.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Core\\Models\\Beat.cs",
+              "RelativeDocumentMoniker": "Waveify.Core\\Models\\Beat.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Core\\Models\\Beat.cs",
+              "RelativeToolTip": "Waveify.Core\\Models\\Beat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:19:42.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Waveify.Persistence\\Entities\\UserEntity.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "Waveify.Persistence\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:34:56.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DrumKit.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Core\\Models\\DrumKit.cs",
+              "RelativeDocumentMoniker": "Waveify.Core\\Models\\DrumKit.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Core\\Models\\DrumKit.cs",
+              "RelativeToolTip": "Waveify.Core\\Models\\DrumKit.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:27:52.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Application\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "Waveify.Application\\Services\\UserServices.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Application\\Services\\UserServices.cs",
+              "RelativeToolTip": "Waveify.Application\\Services\\UserServices.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:24:26.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Waveify.Core\\Models\\User.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Core\\Models\\User.cs",
+              "RelativeToolTip": "Waveify.Core\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:42:38.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WaveifyWeb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WaveifyWeb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:34:36.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataBaseMapping.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\DataBaseMapping.cs",
+              "RelativeDocumentMoniker": "Waveify.Persistence\\DataBaseMapping.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\DataBaseMapping.cs",
+              "RelativeToolTip": "Waveify.Persistence\\DataBaseMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:44:26.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Waveify.Persistence\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Waveify.Persistence\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:30:38.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Waveify.Persistence.csproj",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\Waveify.Persistence.csproj",
+              "RelativeDocumentMoniker": "Waveify.Persistence\\Waveify.Persistence.csproj",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Persistence\\Waveify.Persistence.csproj",
+              "RelativeToolTip": "Waveify.Persistence\\Waveify.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T09:12:02.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Infrastructure\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "Waveify.Infrastructure\\JwtProvider.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Infrastructure\\JwtProvider.cs",
+              "RelativeToolTip": "Waveify.Infrastructure\\JwtProvider.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:15:03.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserEndpoints.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Endpoints\\UserEndpoints.cs",
+              "RelativeDocumentMoniker": "WaveifyWeb\\Endpoints\\UserEndpoints.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Endpoints\\UserEndpoints.cs",
+              "RelativeToolTip": "WaveifyWeb\\Endpoints\\UserEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:23:27.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Application\\Interfaces\\Repositiories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Waveify.Application\\Interfaces\\Repositiories\\IUserRepository.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Application\\Interfaces\\Repositiories\\IUserRepository.cs",
+              "RelativeToolTip": "Waveify.Application\\Interfaces\\Repositiories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:10:32.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WaveifyWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WaveifyWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-19T09:36:47.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Infrastructure\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Waveify.Infrastructure\\JwtOptions.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Infrastructure\\JwtOptions.cs",
+              "RelativeToolTip": "Waveify.Infrastructure\\JwtOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:31:52.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WaveifyWeb\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WaveifyWeb\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T08:35:18.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Application\\Interfaces\\Auth\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "Waveify.Application\\Interfaces\\Auth\\IJwtProvider.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Application\\Interfaces\\Auth\\IJwtProvider.cs",
+              "RelativeToolTip": "Waveify.Application\\Interfaces\\Auth\\IJwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:48:31.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Waveify.API.csproj",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Waveify.API.csproj",
+              "RelativeDocumentMoniker": "WaveifyWeb\\Waveify.API.csproj",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Waveify.API.csproj",
+              "RelativeToolTip": "WaveifyWeb\\Waveify.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T12:43:57.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Waveify.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Infrastructure\\Waveify.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Waveify.Infrastructure\\Waveify.Infrastructure.csproj",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Infrastructure\\Waveify.Infrastructure.csproj",
+              "RelativeToolTip": "Waveify.Infrastructure\\Waveify.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T09:12:03.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PasswordHash.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Infrastructure\\PasswordHash.cs",
+              "RelativeDocumentMoniker": "Waveify.Infrastructure\\PasswordHash.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Infrastructure\\PasswordHash.cs",
+              "RelativeToolTip": "Waveify.Infrastructure\\PasswordHash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:28:45.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IPasswordHash.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Application\\Interfaces\\Auth\\IPasswordHash.cs",
+              "RelativeDocumentMoniker": "Waveify.Application\\Interfaces\\Auth\\IPasswordHash.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Application\\Interfaces\\Auth\\IPasswordHash.cs",
+              "RelativeToolTip": "Waveify.Application\\Interfaces\\Auth\\IPasswordHash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:33:29.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Contracts\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "WaveifyWeb\\Contracts\\LoginUserRequest.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Contracts\\LoginUserRequest.cs",
+              "RelativeToolTip": "WaveifyWeb\\Contracts\\LoginUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:37:16.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegisterUserRequest.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Contracts\\RegisterUserRequest.cs",
+              "RelativeDocumentMoniker": "WaveifyWeb\\Contracts\\RegisterUserRequest.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Contracts\\RegisterUserRequest.cs",
+              "RelativeToolTip": "WaveifyWeb\\Contracts\\RegisterUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:38:16.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WaveifyWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WaveifyWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:34:49.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Waveify.Core.csproj",
+              "DocumentMoniker": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Core\\Waveify.Core.csproj",
+              "RelativeDocumentMoniker": "Waveify.Core\\Waveify.Core.csproj",
+              "ToolTip": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\Waveify.Core\\Waveify.Core.csproj",
+              "RelativeToolTip": "Waveify.Core\\Waveify.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T13:09:30.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
