@@ -36,3 +36,4 @@ D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Persistence\obj\De
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Persistence\obj\Debug\net6.0\Waveify.Persistence.pdb
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Persistence\obj\Debug\net6.0\Waveify.Persistence.genruntimeconfig.cache
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Persistence\obj\Debug\net6.0\ref\Waveify.Persistence.dll
+D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Persistence\obj\Debug\net6.0\Waveify.Persistence.sourcelink.json

@@ -1,8 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Waveify.Application.Auth;
 using Waveify.Application.Interface.Repositiories;
-using Waveify.Application.Interfaces.Repositiories;
-using Waveify.Application.Repositiories;
+//using Waveify.Application.Interfaces.Repositiories;
+//using Waveify.Application.Repositiories;
 using Waveify.Application.Services;
 using Waveify.Infrastructure;
 using Waveify.Interface.Auth;
@@ -57,7 +57,7 @@ app.UseAuthorization();
 app.UseCors(x =>
 {
     x.WithHeaders().AllowAnyHeader();
-    x.WithOrigins("http://localhost:3000");
+    x.WithOrigins("http://193.227.240.115:25432");
     x.WithMethods().AllowAnyMethod();
 });
 app.MapControllerRoute(

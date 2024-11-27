@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Waveify.Core.Models;
-using Waveify.Application.Repositiories;
+using Waveify.Application.Interface.Repositiories;
 using System.IO.MemoryMappedFiles;
 using System.Globalization;
 using Waveify.Persistence.Entities;

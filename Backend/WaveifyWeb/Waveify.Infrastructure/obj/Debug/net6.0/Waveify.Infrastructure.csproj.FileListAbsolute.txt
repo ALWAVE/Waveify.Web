@@ -32,3 +32,4 @@ D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Infrastructure\obj
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Infrastructure\obj\Debug\net6.0\refint\Waveify.Infrastructure.dll
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Infrastructure\obj\Debug\net6.0\Waveify.Infrastructure.pdb
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Infrastructure\obj\Debug\net6.0\ref\Waveify.Infrastructure.dll
+D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Infrastructure\obj\Debug\net6.0\Waveify.Infrastructure.sourcelink.json

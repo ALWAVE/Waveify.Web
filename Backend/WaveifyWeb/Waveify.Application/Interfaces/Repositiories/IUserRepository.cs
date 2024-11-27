@@ -1,6 +1,6 @@
 ﻿using Waveify.Core.Models;
 
-namespace Waveify.Application.Repositiories
+namespace Waveify.Application.Interface.Repositiories
 {
     public interface IUserRepository
     {

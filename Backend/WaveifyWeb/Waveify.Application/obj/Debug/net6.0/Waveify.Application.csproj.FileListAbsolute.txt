@@ -28,3 +28,4 @@ D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Application\obj\De
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Application\obj\Debug\net6.0\refint\Waveify.Application.dll
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Application\obj\Debug\net6.0\Waveify.Application.pdb
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Application\obj\Debug\net6.0\ref\Waveify.Application.dll
+D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\Waveify.Application\obj\Debug\net6.0\Waveify.Application.sourcelink.json

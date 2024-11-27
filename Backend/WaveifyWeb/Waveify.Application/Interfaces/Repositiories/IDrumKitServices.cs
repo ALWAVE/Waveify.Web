@@ -1,6 +1,6 @@
 ﻿using Waveify.Core.Models;
 
-namespace Waveify.Application.Interfaces.Repositiories
+namespace Waveify.Application.Interface.Repositiories
 {
     public interface IDrumKitServices
     {

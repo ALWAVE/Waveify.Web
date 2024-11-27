@@ -132,7 +132,6 @@ D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\WaveifyWeb\obj\Debug\net6.
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\WaveifyWeb\obj\Debug\net6.0\Waveify.API.AssemblyInfoInputs.cache
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\WaveifyWeb\obj\Debug\net6.0\Waveify.API.AssemblyInfo.cs
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\WaveifyWeb\obj\Debug\net6.0\Waveify.API.csproj.CoreCompileInputs.cache
-D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\WaveifyWeb\obj\Debug\net6.0\Waveify.API.MvcApplicationPartsAssemblyInfo.cs
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\WaveifyWeb\obj\Debug\net6.0\Waveify.API.MvcApplicationPartsAssemblyInfo.cache
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\WaveifyWeb\obj\Debug\net6.0\Waveify.API.RazorAssemblyInfo.cache
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\WaveifyWeb\obj\Debug\net6.0\Waveify.API.RazorAssemblyInfo.cs
@@ -152,3 +151,5 @@ D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\WaveifyWeb\obj\Debug\net6.
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\WaveifyWeb\obj\Debug\net6.0\Waveify.API.pdb
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\WaveifyWeb\obj\Debug\net6.0\Waveify.API.genruntimeconfig.cache
 D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\WaveifyWeb\obj\Debug\net6.0\ref\Waveify.API.dll
+D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\WaveifyWeb\obj\Debug\net6.0\Waveify.API.sourcelink.json
+D:\ProjectVS\WaveifyWebApplication\Backend\WaveifyWeb\WaveifyWeb\obj\Debug\net6.0\Waveify.API.MvcApplicationPartsAssemblyInfo.cs

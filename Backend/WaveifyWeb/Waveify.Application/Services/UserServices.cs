@@ -1,6 +1,6 @@
 ﻿
 using Waveify.Application.Auth;
-using Waveify.Application.Repositiories;
+using Waveify.Application.Interface.Repositiories;
 using Waveify.Core.Models;
 using Waveify.Interface.Auth;
 namespace Waveify.Application.Services

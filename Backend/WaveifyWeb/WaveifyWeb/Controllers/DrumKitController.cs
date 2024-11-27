@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Waveify.API.Contracts;
 using Waveify.Application.Interface.Repositiories;
-using Waveify.Application.Interfaces.Repositiories;
+
 using Waveify.Core.Models;
 
 namespace Waveify.API.Controllers

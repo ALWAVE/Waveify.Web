@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Waveify.Application.Interface.Repositiories;
-using Waveify.Application.Interfaces.Repositiories;
+
 using Waveify.Core.Models;
 
 namespace Waveify.Application.Interface.Repositiories
