@@ -1,18 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 html {
-  font-size: 14px;
+    font-size: 14px;
+
 }
 
 @media (min-width: 768px) {
   html {
     font-size: 16px;
+
   }
 }
 
 html {
   position: relative;
   min-height: 100%;
+
+}
+.WelcomeText {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    color: white;
 }
 
 body {
-  margin-bottom: 60px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin-bottom: 60px;
+    backdrop-filter: blur(50px);
+    background: url(https://cdn-images.dzcdn.net/images/cover/be9745b867fcd55bf3473b1091745fa8/0x1900-000000-80-0-0.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; /* Растягивает изображение на весь экран */
+   
+}
+
+.nav-item {
+    border: none; /* Убираем стандартную рамку */
+    border-radius: 25rem; /* Закругление углов */
+    transition: background-color 0.3s ease; /* Плавный переход цвета фона */
+}
+
+    .nav-item:hover {
+        background-color: #ccc; /* Цвет фона при наведении */
+        color: white; /* Цвет текста при наведении (если нужно) */
+    }
+
+.left-side {
+    flex: 1; /* Занимает 50% ширины */
+    background-image: url('your-image-url.jpg'); /* Замените на URL вашего изображения */
+    background-size: cover; /* Растягивает изображение */
+    background-position: center; /* Центрирует изображение */
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20201010/pngtree-music-sound-waves-background-with-colourful-smoke-effect-image_407324.jpg');
+}
+
+.right-side {
+    flex: 1; /* Занимает 50% ширины */
+    display: flex;
+    justify-content: center; /* Центрирует содержимое по горизонтали */
+    align-items: center; /* Центрирует содержимое по вертикали */
+    color: #333; /* Цвет текста */
+    padding: 20px; /* Отступы */
+   
 }
