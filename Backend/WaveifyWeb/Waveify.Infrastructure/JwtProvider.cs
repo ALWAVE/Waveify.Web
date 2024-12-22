@@ -26,7 +26,9 @@ namespace Waveify.Infrastructure
                 new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_options.SecretKey)),
                 SecurityAlgorithms.HmacSha256); // Используем алгоритм HSHA256 Экей Temach рулит
 
+
             var token = new JwtSecurityToken(
+                //claims: claims,
                 signingCredentials: signingCredentials,
                 expires: DateTime.UtcNow.AddHours(_options.ExpitesHourse));
 

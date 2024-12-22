@@ -6,7 +6,7 @@ namespace Waveify.API.Endpoints
     {
         public static IEndpointRouteBuilder MapUsersEndpoints(this IEndpointRouteBuilder app)
         {
-            app.MapPost("register", Register);
+            app.MapPost("api/register", Register);
             app.MapPost("login", Login);
             return app;
         }

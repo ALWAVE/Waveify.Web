@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Waveify.API.Endpoints;
 using Waveify.Application.Auth;
 using Waveify.Application.Interface.Repositiories;
 //using Waveify.Application.Interfaces.Repositiories;
@@ -7,6 +8,7 @@ using Waveify.Application.Services;
 using Waveify.Infrastructure;
 using Waveify.Interface.Auth;
 using Waveify.Persistence;
+using Waveify.Persistence.Repositiories;
 using Waveify.Persistence.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -16,10 +18,13 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IJwtProvider, JwtProvider>();
 builder.Services.AddScoped<IPasswordHash, PasswordHash>();
+
 builder.Services.AddScoped<UserServices>();
-builder.Services.AddScoped <IUserRepository, Waveify.Persistence.Repositiories.UserRepository>();
+//builder.Services.Configure<JwtOptions>(configuration.GetSection(nameof(JwtOptions)));
+
 builder.Services.AddAutoMapper(typeof(DataBaseMapping));
 
+builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IDrumKitServices, DrumKitServices>();
 builder.Services.AddScoped<IDrumKitRepositories, DrumKitRepositories>();
 
@@ -54,12 +59,12 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-app.UseCors(x =>
-{
-    x.WithHeaders().AllowAnyHeader();
-    x.WithOrigins("http://193.227.240.115:25432");
-    x.WithMethods().AllowAnyMethod();
-});
+//app.UseCors(x =>
+//{
+//    x.WithHeaders().AllowAnyHeader();
+//    x.WithOrigins("http://193.227.240.115:25432");
+//    x.WithMethods().AllowAnyMethod();
+//});
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");

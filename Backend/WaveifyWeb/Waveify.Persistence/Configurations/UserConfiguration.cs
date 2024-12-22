@@ -11,18 +11,19 @@ using Waveify.Core.Models;
 
 namespace Waveify.Persistence.Configurations
 {
-    //public class UserConfiguration : IEntityTypeConfiguration<UserEntity>
-    //{
-    //    public void Configurate(EntityTypeBuilder<UserEntity> builder)
-    //    {
-    //        builder.HasKey(e => e.Id);
-    //        builder.Property(b => b.UserName)
-    //            .IsRequired();
-    //            //.HasMaxLength(DrumKit.MAX_TITTLE_LENGHT);
-    //        builder.Property(b => b.Email)
-    //         .IsRequired();
-    //        builder.Property(b => b.PasswordHash)
-    //          .IsRequired();
-    //    }
-    //}
+    public class UserConfiguration : IEntityTypeConfiguration<UserEntity>
+    {
+        // Исправлено имя метода на Configure
+        public void Configure(EntityTypeBuilder<UserEntity> builder)
+        {
+            builder.HasKey(e => e.Id);
+            builder.Property(b => b.UserName)
+                .IsRequired();
+            //.HasMaxLength(DrumKit.MAX_TITTLE_LENGHT);
+            builder.Property(b => b.Email)
+                .IsRequired();
+            builder.Property(b => b.PasswordHash)
+                .IsRequired();
+        }
+    }
 }

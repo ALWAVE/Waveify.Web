@@ -10,7 +10,10 @@ namespace Waveify.Application.Services
         private readonly IPasswordHash _passwordHasher;
         private readonly IUserRepository _usersRepository;
         private readonly IJwtProvider _jwtProvider;
-        public UserServices(IPasswordHash passwordHash, IUserRepository userRepository, IJwtProvider jwtProvider) 
+        public UserServices(
+            IPasswordHash passwordHash, 
+            IUserRepository userRepository, 
+            IJwtProvider jwtProvider) 
         {
             _passwordHasher = passwordHash;
             _usersRepository = userRepository;
@@ -26,12 +29,18 @@ namespace Waveify.Application.Services
         public async Task<string> Login(string email, string password)
         {
             var user = await _usersRepository.GetByEmail(email);
-            var result = _passwordHasher.Verify(password, user.PasswordHash);
-            if (result == false) {
-                throw new Exception("Failed");
+            if (user == null)
+            {
+                throw new InvalidOperationException("User  not found.");
             }
-            var token = _jwtProvider.GenerateToken(user);
 
+            var result = _passwordHasher.Verify(password, user.PasswordHash);
+            if (!result)
+            {
+                throw new InvalidOperationException("Invalid password.");
+            }
+
+            var token = _jwtProvider.GenerateToken(user);
             return token;
         }
     }

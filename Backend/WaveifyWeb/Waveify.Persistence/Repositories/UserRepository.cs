@@ -23,6 +23,7 @@ namespace Waveify.Persistence.Repositiories
             _context = context;
             _mapper = mapper;
         }
+        
         public async Task Add(User user)
         {
             var userEntity = new UserEntity()
@@ -33,16 +34,25 @@ namespace Waveify.Persistence.Repositiories
                 Email = user.Email
             };
 
-            //await _context.Users.AddAsync(userEntity);
+            await _context.Users.AddAsync(userEntity);
             await _context.SaveChangesAsync();
 
         }
         public async Task<User> GetByEmail(string email)
         {
+           
             var userEntity = await _context.Users
                 .AsNoTracking()
-                .FirstOrDefaultAsync(u => u.Email == email) ?? throw new Exception();
+                .FirstOrDefaultAsync(u => u.Email == email);
+
+            if (userEntity == null)
+            {
+                // Можно вернуть null или выбросить более специфическое исключение
+                return null; // Или throw new KeyNotFoundException($"User  with email {email} not found.");
+            }
+
             return _mapper.Map<User>(userEntity);
         }
+
     }
 }
