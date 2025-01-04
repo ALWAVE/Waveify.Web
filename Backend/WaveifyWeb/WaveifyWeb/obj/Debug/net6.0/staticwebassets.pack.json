@@ -9,10 +9,6 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
       "Id": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

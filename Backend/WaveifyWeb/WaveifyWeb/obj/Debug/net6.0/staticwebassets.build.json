@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kpiGDemBcndApusJUXVPXg9mYDEPTlRyTqd8MZam80U=",
+  "Hash": "kNzRbyPg8Rfq1BOTSFChaPnb7Cf+FKIikRYdMv9vA/g=",
   "Source": "Waveify.API",
   "BasePath": "_content/Waveify.API",
   "Mode": "Default",
@@ -72,25 +72,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\wwwroot\\favicon.ico",
-      "SourceId": "Waveify.API",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\wwwroot\\",
-      "BasePath": "_content/Waveify.API",
-      "RelativePath": "favicon.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
       "Identity": "D:\\ProjectVS\\WaveifyWebApplication\\Backend\\WaveifyWeb\\WaveifyWeb\\wwwroot\\js\\site.js",

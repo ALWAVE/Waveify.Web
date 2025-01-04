@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\favicon.ico" />
+    <Content Remove="wwwroot\images\Back.png" />
+    <Content Remove="wwwroot\images\Waveify_Default_Small.png" />
+    <Content Remove="wwwroot\Waveify_Default_Small.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ApplicationDefinition Include="wwwroot\images\Back.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -19,6 +30,12 @@
     <ProjectReference Include="..\Waveify.Application\Waveify.Application.csproj" />
     <ProjectReference Include="..\Waveify.Infrastructure\Waveify.Infrastructure.csproj" />
     <ProjectReference Include="..\Waveify.Persistence\Waveify.Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ApplicationDefinition Include="wwwroot\favicon.ico" />
+    <Resource Include="wwwroot\images\Waveify_Default_Small.png" />
+    <Resource Include="wwwroot\Waveify_Default_Small.ico" />
   </ItemGroup>
 
 </Project>
