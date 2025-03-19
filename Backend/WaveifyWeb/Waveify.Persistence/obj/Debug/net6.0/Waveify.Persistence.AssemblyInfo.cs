@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Waveify.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48bdeaa7cd6ec1036e8b1418744884403f5f1206")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7282be994f3d6a2ed36ec7925831cbd1c122dd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Waveify.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Waveify.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

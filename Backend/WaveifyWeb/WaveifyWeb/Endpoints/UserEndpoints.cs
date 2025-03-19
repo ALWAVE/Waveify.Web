@@ -18,9 +18,23 @@ namespace Waveify.API.Endpoints
             return Results.Ok();
         }
         private static async Task<IResult> Login(
-            LoginUserRequest request, UserServices userService)
+            LoginUserRequest request,
+            UserServices userService,
+            HttpContext context
+            )
         {
             var token = await userService.Login(request.Email, request.Password);
+            context.Response.Cookies.Append(
+                 "tasty-cookies",
+                 token,
+                 new CookieOptions
+                 {
+                     HttpOnly = true, // Не доступен через JavaScript
+                     Secure = true,   // Доступен только по HTTPS
+                     SameSite = SameSiteMode.Strict, // Защита от CSRF
+                     Expires = DateTimeOffset.UtcNow.AddDays(7) // Время жизни куки
+                 }
+             );
             return Results.Ok(token);    
         }
        

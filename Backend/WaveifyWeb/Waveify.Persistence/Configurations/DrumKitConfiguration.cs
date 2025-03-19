@@ -16,7 +16,7 @@ namespace Waveify.Persistence.Configurations
         public void Configure(EntityTypeBuilder<DrumKitEntity> builder)
         {
             builder.HasKey(e => e.Id);
-            builder.Property(b => b.Tittle)
+            builder.Property(b => b.Title)
                 .IsRequired()
                 .HasMaxLength(DrumKit.MAX_TITTLE_LENGHT);
             builder.Property(b => b.Description)

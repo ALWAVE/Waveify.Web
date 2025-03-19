@@ -24,9 +24,9 @@ namespace Waveify.Application.Interface.Repositiories
         {
             return await _drumKitRepository.Create(drumKit);
         }
-        public async Task<Guid> UpdateDrumKit(Guid id, string tittle, string desc, string url, decimal price)
+        public async Task<Guid> UpdateDrumKit(Guid id, string title, string desc, string url, decimal price)
         {
-            return await _drumKitRepository.Update(id, tittle, desc, url, price);
+            return await _drumKitRepository.Update(id, title, desc, url, price);
         }
         public async Task<Guid> DeleteDrumKit(Guid id)
         {

@@ -25,7 +25,7 @@ namespace Waveify.Persistence.Repositories
                .AsNoTracking()
                .ToListAsync();
             var drumKits = drumKitEntities.
-                Select(d => DrumKit.Create(d.Id, d.Tittle, d.Description, d.Url, d.Price).DrumKit)
+                Select(d => DrumKit.Create(d.Id, d.Title, d.Description, d.Url, d.Price).DrumKit)
                 .ToList();
             return drumKits;
         }
@@ -34,7 +34,7 @@ namespace Waveify.Persistence.Repositories
             var drimKitEntity = new DrumKitEntity
             {
                 Id = drumKit.Id,
-                Tittle = drumKit.Tittle,
+                Title = drumKit.Title,
                 Description = drumKit.Description,
                 Url = drumKit.Url,
                 Price = drumKit.Price,
@@ -44,12 +44,12 @@ namespace Waveify.Persistence.Repositories
             return drumKit.Id;
 
         }
-        public async Task<Guid> Update(Guid id, string tittle, string desc, string url, decimal price)
+        public async Task<Guid> Update(Guid id, string title, string desc, string url, decimal price)
         {
             await _context.DrumKits
                 .Where(d => d.Id == id)
                 .ExecuteUpdateAsync(s => s
-                .SetProperty(d => d.Tittle, d => tittle)
+                .SetProperty(d => d.Title, d => title)
                  .SetProperty(d => d.Description, d => desc)
                   .SetProperty(d => d.Url, d => url)
                    .SetProperty(d => d.Price, d => price));

@@ -7,6 +7,6 @@ namespace Waveify.Application.Interface.Repositiories
         Task<Guid> CreateDrumKit(DrumKit drumKit);
         Task<Guid> DeleteDrumKit(Guid id);
         Task<List<DrumKit>> GetAllDrumKits();
-        Task<Guid> UpdateDrumKit(Guid id, string tittle, string desc, string url, decimal price);
+        Task<Guid> UpdateDrumKit(Guid id, string title, string desc, string url, decimal price);
     }
 }

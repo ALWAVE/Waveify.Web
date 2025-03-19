@@ -22,7 +22,7 @@ namespace Waveify.Application.Services
         public async Task Register(string userName, string email, string password)
         {
             var hashedPassword = _passwordHasher.Generate(password);
-            var user = User.Create(Guid.NewGuid(), userName, hashedPassword, email);
+            var user = User.Create(Guid.NewGuid(), userName, email, hashedPassword);
 
             await _usersRepository.Add(user);
         }

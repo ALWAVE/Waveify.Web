@@ -21,14 +21,14 @@ namespace Waveify.API.Controllers
         {
             var drumKits = await _drumKitServices.GetAllDrumKits();
             var responce = drumKits.Select(d => new DrumKitResponse(
-                d.Id, d.Tittle, d.Description, d.Url, d.Price));
+                d.Id, d.Title, d.Description, d.Url, d.Price));
             return Ok(responce);
         }
         [HttpPost]
         public async Task<ActionResult<Guid>> CreateDrumKit([FromBody] DrumKitRequest request)
         {
             var (drumKit, error) = DrumKit.Create(Guid.NewGuid(),
-                request.tittle,
+                request.title,
                 request.description,
                 request.url,
                 request.price);
@@ -42,7 +42,7 @@ namespace Waveify.API.Controllers
         [HttpPut("{id:guid}")]
         public async Task<ActionResult<Guid>> UpdateDrumKit(Guid id, [FromBody] DrumKitRequest request)
         {
-            var drumKitId = await _drumKitServices.UpdateDrumKit(id, request.tittle, request.description, request.url, request.price);
+            var drumKitId = await _drumKitServices.UpdateDrumKit(id, request.title, request.description, request.url, request.price);
 
             return Ok(drumKitId);
         }

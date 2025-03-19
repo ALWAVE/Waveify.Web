@@ -9,7 +9,7 @@ namespace Waveify.Persistence.Entities
     public class DrumKitEntity
     {
         public Guid Id { get; set; }
-        public string Tittle { get; set; } = string.Empty;
+        public string Title { get; set; } = string.Empty;
         public string Description { get; set; } = string.Empty;
         public string Url { get; set; } = string.Empty;
         public decimal Price { get; set; }

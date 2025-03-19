@@ -1,7 +1,7 @@
 ﻿namespace Waveify.API.Contracts
 {
     public record DrumKitRequest(
-        string tittle,
+        string title,
         string description,
         string url,
         decimal price
